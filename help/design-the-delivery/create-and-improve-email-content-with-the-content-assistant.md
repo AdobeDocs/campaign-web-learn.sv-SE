@@ -29,4 +29,4 @@ Lär dig hur du använder den generativa AI-baserade innehållsassistenten för 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Mer information om den här funktionen finns i [produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).

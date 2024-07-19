@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14390
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: 496e5a15-f90d-4901-ae53-3dfbb4d8758f
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # Utforska profiler i Adobe Campaign webbgr채nssnitt
 
@@ -22,4 +22,4 @@ L채r dig hur du f책r tillg책ng till, hanterar och utforskar profiler med webbgr�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-Mer information om den h채r funktionen finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
+Mer information om funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
