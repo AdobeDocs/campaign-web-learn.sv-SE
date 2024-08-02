@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
+source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 32%
+source-wordcount: '129'
+ht-degree: 29%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 32%
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Kom igång {#getting-started}
    + [Utforska gränssnittet Campaign Web User](/help/get-started/explore-the-web-ui.md)
+   + [Kom igång med Adobe Campaign v8 efter migrering från Campaign Standarden](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
 + Meddelanden och leveranser {#messages-and-deliveries}
    + [Skapa en e-postleverans](/help/deliveries/create-an-email-delivery.md)
    + [Designa e-postinnehåll från grunden](/help/design-the-delivery/create-email-content-from-scratch.md)
