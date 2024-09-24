@@ -8,15 +8,18 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
-source-git-commit: 126d7606a457f40e24b5e08467290e579b559428
+hidefromtoc: false
+exl-id: f8470477-8b4a-4310-8325-53732c77129f
+source-git-commit: e3b149963f2fd306669facbc6f90200113ebf169
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 18%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
-
 # Skapa en leverans av direktutskick
+
+Direktreklam är en offlinekanal som gör att du kan producera filer för att skicka personaliserade brev till kunder som vykort, flygblad eller kataloger. När du skapar en direktutskick genererar Adobe Campaign automatiskt en extraheringsfil som innehåller alla målprofiler och valda data, till exempel postadresser och profilattribut.
 
 Lär dig hur du skapar direktreklam i webbgränssnittet i Adobe Campaign v8.
 
