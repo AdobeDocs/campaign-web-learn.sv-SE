@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
+source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 31%
@@ -23,9 +23,9 @@ ht-degree: 31%
    + [Skapa en e-postleverans](/help/deliveries/create-an-email-delivery.md)
    + [Designa e-postinnehåll från grunden](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Skapa ett e-postmeddelande genom att överföra HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [Förhandsgranska och korrekturgranska en e-postleverans](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [Skapa och förbättra e-postinnehåll med Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Skapa innehåll med AI-assistenten i Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [Förhandsgranska och korrekturgranska en e-postleverans](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [Skapa en leverans av direktutskick](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profiler och målgrupper {#profiles-and-audiences}
    + [Utforska profiler](/help/profiles-and-audiences/explore-profiles.md)
