@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 27%
@@ -37,4 +37,3 @@ ht-degree: 27%
    + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
 + [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-

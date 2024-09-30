@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 26%
@@ -26,6 +26,7 @@ Anpassning av kampanjplattform baserat på affärs- och databehov, och anslutnin
 >
 > De här självstudiekurserna är inte vad du letar efter?
 > Se
+> 
 > * [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"} som ger vägledning om Campaign Console
 > * [Adobe Campaign webbdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} om du vill ha mer information om användargränssnittet i webbkampanjen.
 

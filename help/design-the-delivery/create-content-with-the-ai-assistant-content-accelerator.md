@@ -10,10 +10,10 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: f16d7d8d0db84ce411b3ff5f8922de05ade5dcab
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 0%
 Lär dig hur du använder AI Assistant i Campaign - Content Accelerator för att generera kanalanpassat innehåll för 1:1-realtidskampanjer och batchkampanjer som får genklang hos målgruppen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
+
+## Ytterligare resurser
+
+* Experience League LIVE: [AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och -kampanj](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
