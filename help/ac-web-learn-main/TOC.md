@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '159'
 ht-degree: 27%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 27%
 
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Kom igång {#getting-started}
-   + [Adobe Campaign v8 - Adoptionshandbok](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 - Adoptionshandbok](https://experienceleague.adobe.com/sv/docs/campaign-web/acs-to-ac/home)
    + [Utforska gränssnittet Campaign Web User](/help/get-started/explore-the-web-ui.md)
 + Meddelanden och leveranser {#messages-and-deliveries}
    + [Skapa en e-postleverans](/help/deliveries/create-an-email-delivery.md)
@@ -29,6 +29,7 @@ ht-degree: 27%
    + [Skapa en leverans av direktutskick](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profiler och målgrupper {#profiles-and-audiences}
    + [Utforska profiler](/help/profiles-and-audiences/explore-profiles.md)
+   + [Skapa och hantera testprofiler](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Hantera och bygga målgrupper](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Skapa en målgrupp med Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Arbetsflöden {#workflows}
