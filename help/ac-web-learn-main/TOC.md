@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 27%
+source-wordcount: '165'
+ht-degree: 26%
 
 ---
 
@@ -27,6 +27,8 @@ ht-degree: 27%
    + [Skapa och förbättra e-postinnehåll med Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Skapa innehåll med AI-assistenten i Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Skapa en leverans av direktutskick](/help/design-the-delivery/create-a-direct-mail-delivery.md)
++ Innehållshantering {#content-management}
+   + [Bättre leverans med dynamiskt innehåll](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Profiler och målgrupper {#profiles-and-audiences}
    + [Utforska profiler](/help/profiles-and-audiences/explore-profiles.md)
    + [Skapa och hantera testprofiler](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
