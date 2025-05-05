@@ -22,4 +22,4 @@ Lär dig hur du bygger och hanterar målgrupper, hur du väljer målgrupper för
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-Mer information om funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+Mer information om funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=sv-SE)

@@ -22,4 +22,4 @@ Lär dig hur du gör meddelandeinnehåll dynamiskt genom att använda uttrycksre
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
 
-Mer information om [hur du gör ditt innehåll dynamiskt](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/gs-personalization) finns i produktdokumentationen.
+Mer information om [hur du gör ditt innehåll dynamiskt](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/content/dynamic-content/gs-personalization) finns i produktdokumentationen.

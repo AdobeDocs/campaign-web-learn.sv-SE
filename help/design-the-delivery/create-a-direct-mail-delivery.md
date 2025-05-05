@@ -25,4 +25,4 @@ Lär dig hur du skapar direktreklam i webbgränssnittet i Adobe Campaign v8.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
 
-Mer information finns i produktdokumentationen för [Campaign Web User Interface](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).
+Mer information finns i produktdokumentationen för [Campaign Web User Interface](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).

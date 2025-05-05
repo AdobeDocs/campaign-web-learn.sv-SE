@@ -26,4 +26,4 @@ Lär dig navigera i e-post-Designer. Lär dig strukturera och utforma ett e-post
 >
 >Åtkomsten till Assets-menyn är begränsad till användare som har en aktiv licens för Adobe Experience Essentials. Om du inte har den här licensen är Assets-menyn inte tillgänglig.
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=en).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=sv-SE).

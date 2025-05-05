@@ -22,4 +22,4 @@ Lär dig hur du får åtkomst till och navigerar i Campaign Web User Interface o
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
-Mer information om hur du navigerar i webbgränssnittet för Campaign v8 finns i [Kom igång med Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html).
+Mer information om hur du navigerar i webbgränssnittet för Campaign v8 finns i [Kom igång med Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=sv-SE).

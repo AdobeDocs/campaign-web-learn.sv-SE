@@ -23,4 +23,4 @@ Lär dig hur arbetsflöden fungerar och hur du skapar ett arbetsflöde med måli
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=sv-SE).
