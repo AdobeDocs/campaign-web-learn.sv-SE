@@ -20,6 +20,6 @@ ht-degree: 13%
 
 Lär dig hur du skapar en e-postleverans från grunden, definierar målgruppen, utformar innehållet, simulerar förhandsgranskning och skickar ett korrektur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454009/?learn=on&captions=swe)
 
 Mer information om funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=sv-SE)

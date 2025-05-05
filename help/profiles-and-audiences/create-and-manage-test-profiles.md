@@ -22,4 +22,4 @@ När du skapar en kampanj i Adobe Campaign kan du skapa dynamiskt innehåll och 
 
 Lär dig hur du skapar en testprofil i klientkonsolen och hur du hanterar och redigerar profiler i Adobe Campaign webbgränssnitt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442899/?learn=on&enablevpops&captions=swe)

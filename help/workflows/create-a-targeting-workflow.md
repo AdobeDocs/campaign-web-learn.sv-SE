@@ -20,7 +20,7 @@ ht-degree: 19%
 
 Lär dig hur arbetsflöden fungerar och hur du skapar ett arbetsflöde med målinriktning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453976/?learn=on&captions=swe)
 
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=sv-SE).

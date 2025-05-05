@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett e-postmeddelande genom att överföra HTML, hur du gör det kompatibelt med e-postdesignern och hur du konverterar det till en mall.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447036/?learn=on&captions=swe)

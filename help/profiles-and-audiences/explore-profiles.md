@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du får tillgång till, hanterar och utforskar profiler med webbgränssnittet i Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448368/?learn=on&captions=swe)
 
 Mer information om funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=sv-SE)

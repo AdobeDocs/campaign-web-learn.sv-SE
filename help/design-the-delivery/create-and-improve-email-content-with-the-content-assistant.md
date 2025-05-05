@@ -27,6 +27,6 @@ Lär dig hur du använder den generativa AI-baserade innehållsassistenten för 
 >
 > Funktionen finns för närvarande i Alpha och kan ändras utan föregående meddelande.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452073/?learn=on&captions=swe)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).

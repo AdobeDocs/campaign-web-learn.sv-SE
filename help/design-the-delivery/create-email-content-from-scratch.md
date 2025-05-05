@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig navigera i e-post-Designer. Lär dig strukturera och utforma ett e-postmeddelande från grunden, hur du anpassar och testar e-postmeddelandet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453569/?learn=on&captions=swe)
 
 >[!NOTE]
 >

@@ -23,6 +23,6 @@ Direktreklam är en offlinekanal som gör att du kan producera filer för att sk
 
 Lär dig hur du skapar direktreklam i webbgränssnittet i Adobe Campaign v8.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451787/?learn=on&captions=swe)
 
 Mer information finns i produktdokumentationen för [Campaign Web User Interface](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).

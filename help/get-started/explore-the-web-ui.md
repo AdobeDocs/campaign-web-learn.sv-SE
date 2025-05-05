@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du får åtkomst till och navigerar i Campaign Web User Interface och hur du anpassar lagerlistorna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453426/?learn=on&captions=swe)
 
 Mer information om hur du navigerar i webbgränssnittet för Campaign v8 finns i [Kom igång med Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=sv-SE).

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du bygger och hanterar målgrupper, hur du väljer målgrupper för en leverans och definierar kontrollgrupper.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453206/?learn=on&captions=swe)
 
 Mer information om funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=sv-SE)

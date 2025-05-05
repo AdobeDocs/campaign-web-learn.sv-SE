@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du förhandsgranskar innehåll och personalisering i e-postmeddelanden, skickar testleveranser (korrektur) till specifika mottagare eller prenumeranter för testning och validering och kontrollerar e-poståtergivningen i vanliga dator-, mobil- och webbaserade klienter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450341/?learn=on&captions=swe)
