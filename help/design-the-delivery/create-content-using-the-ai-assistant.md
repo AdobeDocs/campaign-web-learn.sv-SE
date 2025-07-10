@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Lär dig använda Adobe AI Assistant Content Accelerator för att snabbt generera och anpassa e-postmeddelanden, inklusive ämnesrader, brödtext och bilder, och integrera varumärkesgodkänt material för enhetlighet och regelefterlevnad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463768/?learn=on&enablevpops&captions=swe)
 
 ## Ytterligare resurser
 
