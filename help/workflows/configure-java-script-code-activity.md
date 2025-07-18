@@ -22,6 +22,6 @@ Lär dig hur du effektivt kan använda JavaScript Code i Adobe Campaign Web v8 f
 
 Den här självstudiekursen omfattar både enkla och avancerade skriptlägen. Den förklarar körningsinställningar och felhantering. Du kommer att få se exempel från verkligheten, som målinriktning mot VIP-profiler, dataomvandling och villkorliga åtgärder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464923/?learn=on&enablevpops&captions=swe)
 
 Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/wf/design-workflows/javascript-code).
