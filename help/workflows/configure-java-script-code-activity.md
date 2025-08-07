@@ -24,4 +24,4 @@ Den här självstudiekursen omfattar både enkla och avancerade skriptlägen. De
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code).
+Mer information om den här funktionen finns i [produktdokumentationen](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/wf/design-workflows/javascript-code).
