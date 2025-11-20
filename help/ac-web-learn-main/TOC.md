@@ -37,6 +37,6 @@ ht-degree: 24%
    + [Skapa ett målinriktat arbetsflöde](/help/workflows/create-a-targeting-workflow.md)
    + [Konfigurera Java-skriptkodaktivitet](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live-inspelningar {#exl-live-recordings}
-   + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
-+ [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
-+ [AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=sv-SE){target="_blank"}
++ [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}
++ [AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
