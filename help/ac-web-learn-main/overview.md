@@ -19,7 +19,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 Prova den klickbara [demon](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 
-Anpassning av kampanjplattform baserat på affärs- och databehov, och anslutning till andra system hanteras i Campaign-klientkonsolen. Därför kan vissa inställningar och funktioner bara nås, skapas eller hanteras från Campaign-klientkonsolen. I guiden [Campaign Web and Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html){target="_blank"} finns en översikt över de inställningar och funktioner som kommer att bli aktuella i framtiden.
+Anpassning av kampanjplattform baserat på affärs- och databehov, och anslutning till andra system hanteras i Campaign-klientkonsolen. Därför kan vissa inställningar och funktioner bara nås, skapas eller hanteras från Campaign-klientkonsolen. I guiden [Campaign Web and Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=sv-SE){target="_blank"} finns en översikt över de inställningar och funktioner som kommer att bli aktuella i framtiden.
 
 >[!INFO]
 > 
@@ -29,8 +29,8 @@ Anpassning av kampanjplattform baserat på affärs- och databehov, och anslutnin
 > De här självstudiekurserna är inte vad du letar efter?
 > Se
 > 
-> * [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"} som ger vägledning om Campaign Console
-> * [Adobe Campaign webbdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} om du vill ha mer information om användargränssnittet för webbkampanjen.
+> * [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=sv-SE){target="_blank"} som ger vägledning om Campaign Console
+> * [Adobe Campaign webbdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=sv-SE){target="_blank"} om du vill ha mer information om användargränssnittet för webbkampanjen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -44,11 +44,11 @@ Anpassning av kampanjplattform baserat på affärs- och databehov, och anslutnin
 
 ## Experience League Live-event
 
-* **[Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
+* **[Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=sv-SE){target="_blank"}**
 
   *Lär dig att planera, starta och mäta flerkanalskampanjer i den nya användarupplevelsen.*
 
-* **[AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
 
   *Upptäck hur AI Assistant omvandlar kundinteraktioner och förbättrar produktiviteten i Adobe Experience Cloud-program och Adobe Campaign.*
 
