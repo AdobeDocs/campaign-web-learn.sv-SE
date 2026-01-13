@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 24%
+source-wordcount: '165'
+ht-degree: 23%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 24%
 + Kom igång {#getting-started}
    + [Adobe Campaign v8 - Adoptionshandbok](https://experienceleague.adobe.com/sv/docs/campaign-web/acs-to-ac/home)
    + [Utforska gränssnittet Campaign Web User](/help/get-started/explore-the-web-ui.md)
+   + [Interaktiv demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Meddelanden och leveranser {#messages-and-deliveries}
    + [Skapa en e-postleverans](/help/deliveries/create-an-email-delivery.md)
    + [Designa e-postinnehåll från grunden](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -37,6 +38,6 @@ ht-degree: 24%
    + [Skapa ett målinriktat arbetsflöde](/help/workflows/create-a-targeting-workflow.md)
    + [Konfigurera Java-skriptkodaktivitet](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live-inspelningar {#exl-live-recordings}
-   + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=sv-SE){target="_blank"}
-+ [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}
-+ [AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ [AI Bash - Aktiverar kraften i AI Assistant i Adobe Experience Platform-program och Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
