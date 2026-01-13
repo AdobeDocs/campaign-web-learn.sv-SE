@@ -24,4 +24,4 @@ Lär dig hur du får åtkomst till och navigerar i Campaign Web User Interface o
 
 Prova **[Klickbar demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)!
 
-Mer information om hur du navigerar i webbgränssnittet för Campaign v8 finns i [Kom igång med Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html).
+Mer information om hur du navigerar i webbgränssnittet för Campaign v8 finns i [Kom igång med Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=sv-SE).
