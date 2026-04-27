@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Learn how to use Adobe&#39;s AI Assistant Content Accelerator to quickly generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463768/?captions=swe&learn=on&enablevpops)
 
 ## Ytterligare resurser
 
