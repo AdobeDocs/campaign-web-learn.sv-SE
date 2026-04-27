@@ -26,4 +26,4 @@ Learn how to use Adobe&#39;s AI Assistant Content Accelerator to quickly generat
 
 ## Ytterligare resurser
 
-* Experience League LIVE: [AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign](https://experienceleague.adobe.com/sv/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
